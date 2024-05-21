@@ -2,6 +2,9 @@
 # AUTOR: Edson Luiz Parisotto
 # Professor de programação
 # www.parisotto.net
+
+# OK Prof. Parisotto
+
 casas = []
 i = 1
 while i <= 9:
@@ -68,4 +71,4 @@ while jogada <=10:
 
 print("Empate! Fim do Jogo da Velha")
 # teste 2
-teste mais uma vez
+# teste mais uma vez
